@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferryanggriawan" alt="ferryanggriawan" /></a> </p>
 
-- 🔭 I’m currently working on **Bangundindo**
+- 🔭 I’m currently working on **Bangunindo**
 
 - 🌱 I’m currently learning **go-lang and dev-ops things**
 
